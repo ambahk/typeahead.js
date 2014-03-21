@@ -1,10 +1,10 @@
 {
   "name": "typeahead.js",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "main": [
     "dist/typeahead.js"
   ],
   "dependencies": {
-    "jquery": "> 1.9"
+    "jquery": ">1.9"
   }
 }
